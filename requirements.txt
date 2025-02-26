@@ -1,0 +1,6 @@
+pytesseract
+opencv-python
+numpy
+pdf2image
+python-dotenv
+openai 
